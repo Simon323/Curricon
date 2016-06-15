@@ -1,0 +1,22 @@
+{
+  "name": "Currocon",
+  "description": "Contacts list example",
+  "main": "",
+  "authors": [
+    "Simon323"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.5.0"
+  }
+}
